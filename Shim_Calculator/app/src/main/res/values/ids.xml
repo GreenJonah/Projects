@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="next_btn"               type="id">Next</item>
+    <item name="calculate_btn"          type="id">Calculate</item>
+    <item name="ex_specified_tolerance" type="id">Specified Tolerance</item>
+    <item name="in_specified_tolerance" type="id">Specified Tolerance</item>
+    <item name="ex_rGap"                type="id">Current Gap</item>
+    <item name="ex_lGap"                type="id">Current Gap</item>
+    <item name="ex_rThickness"          type="id">Shim Thickness</item>
+    <item name="ex_lThickness"          type="id">Shim Thickness</item>
+    <item name="in_rGap"                type="id">Current Gap</item>
+    <item name="in_lGap"                type="id">Current Gap</item>
+    <item name="in_rThickness"          type="id">Shim Thickness</item>
+    <item name="in_lThickness"          type="id">Shim Thickness</item>
+    <item name="ex_left_calc"           type="id"></item>
+    <item name="ex_right_calc"          type="id"></item>
+    <item name="in_left_calc"           type="id"></item>
+    <item name="in_right_calc"          type="id"></item>
+    <item name="new_shims"              type="id"></item>
+</resources>
