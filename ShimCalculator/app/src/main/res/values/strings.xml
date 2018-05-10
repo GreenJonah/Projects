@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shim Calculator</string>
+    <string name="Intake">Intake</string>
+    <string name="Exhaust">Exhaust</string>
+    <string name="Left">Left</string>
+    <string name="next">Next</string>
+    <string name="calculate">Calculate</string>
+    <string name="current_gap">Current Gap</string>
+    <string name="specified_tolerance">Specified tolerance</string>
+    <string name="shim_thickness">Shim Thickness</string>
+    <string name="new_shims">New Shims</string>
+</resources>
